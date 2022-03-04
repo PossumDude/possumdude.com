@@ -1,0 +1,4 @@
+baseURL = 'https://possumdude.com/'
+languageCode = 'en-us'
+title = 'Trashy site'
+theme = "trash"

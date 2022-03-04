@@ -1,0 +1,10 @@
+{{ define "main" }}
+<section class="section">
+  <article>
+    <h1>{{ .Title }}</h1>
+    <hr>
+    <small>{{.Date.Format "2006-01-02"}} on <a href="{{ .Site.BaseURL }}">site</a></small>
+    {{ .Content }}
+  </article>
+</section>
+{{ end }}
