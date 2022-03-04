@@ -1,4 +1,4 @@
-baseURL = 'https://possumdude.com/'
+baseURL = 'https://www.possumdude.com/'
 languageCode = 'en-us'
 title = 'Trashy site'
 theme = "trash"
